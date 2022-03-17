@@ -1,12 +1,15 @@
-#button {
+.button {
     display: inline-block;
     background-color: #ff0043;
     padding: 18px 20px;
     box-shadow: 5px 5px 0px #000000;
-    margin-right: 0;
+    margin-right: 0px;
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
 }
 
-#button:hover {
+.button:hover {
     /* transform: scale(1.2); */
     background-color: white;
     color: black;
