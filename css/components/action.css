@@ -1,37 +1,21 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #242424;
-    border-bottom: 5px solid #ff0043;
-    padding: 10px 20px;
-}
-
-nav {
-    text-align: right;
-}
-
-a {
+.action {
     display: inline-flex;
     align-items: center;
     color: #FFFFFF;
     font-size: 15px;
-    font-family: 'Inter', sans-serif;
     font-weight: 300;
     text-decoration: none;
     margin-right: 30px;
 }
 
-a:hover {
+.action:hover {
     color: #ff0043;
 }
 
-a:before {
+.action::before {
     content: "";
     background-color: #ff0043;
     width: 10px;
     height: 10px;
     margin-right: 10px;
 }
-
-
-
