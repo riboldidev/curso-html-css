@@ -1,4 +1,4 @@
-.title {
+.main-title {
     font-family: 'Inter', sans-serif;
     font-size: 40px;
     color: #ff0043;
@@ -6,7 +6,7 @@
     font-weight: 700;
 }
 
-.title.-second {
+.main-title.-second {
     color: #fff;
     text-shadow: none;
     text-align: center;
