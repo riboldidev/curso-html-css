@@ -1,7 +1,7 @@
 .action {
     display: inline-flex;
     align-items: center;
-    color: #FFFFFF;
+    color: #EAEAEA;
     font-size: 15px;
     font-weight: 300;
     text-decoration: none;
@@ -9,12 +9,12 @@
 }
 
 .action:hover {
-    color: #ff0043;
+    color: #F71735;
 }
 
 .action::before {
     content: "";
-    background-color: #ff0043;
+    background-color: #F71735;
     width: 10px;
     height: 10px;
     margin-right: 10px;

@@ -1,16 +1,16 @@
 .button {
     display: inline-block;
-    background-color: #ff0043;
+    background-color: #F71735;
     padding: 18px 20px;
-    box-shadow: 5px 5px 0px #000000;
+    /* box-shadow: 5px 5px 0px #000000; */
     margin-right: 0px;
     font-size: 15px;
-    color: #fff;
+    color: #EAEAEA;
     text-decoration: none;
 }
 
 .button:hover {
     /* transform: scale(1.2); */
-    background-color: white;
+    background-color: #EAEAEA;
     color: black;
 }

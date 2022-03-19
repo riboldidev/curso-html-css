@@ -1,11 +1,11 @@
 .banner {
-    background-image: url(../../assets/img/photo.png);
+    background-image: url(../../assets/img/photo2.png);
     background-repeat: no-repeat;
     background-size: 100%;
     border-bottom: 10px solid #242424;
-    height: 800px;
+    height: 700px;
     padding-top: 115px;
-    padding-left: 90px;
+    padding-left: 115px;
 }
 
 .banner .wrapper {
@@ -15,10 +15,10 @@
 }
 
 .banner .box {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .banner .navigation {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
